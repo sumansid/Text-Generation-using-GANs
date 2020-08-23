@@ -14,6 +14,7 @@ Thanks to Stephen Wolfram, Jerome Louradour and Tuseeta Banerjee.
 ## References
 
 [Distances between distributions Paper](https://link.springer.com/chapter/10.1007/978-3-540-27868-9_28)
+
 [Generative Adversarial Networks Paper](https://arxiv.org/abs/1406.2661)
 
 
